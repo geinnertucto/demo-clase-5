@@ -1,4 +1,5 @@
 # Database initialization script for production environment
+  
 # Production MySQL configuration for Payments Service
 
 # Create production database and user
